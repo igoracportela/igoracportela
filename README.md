@@ -3,8 +3,6 @@
 
 ### Thanks for visiting my Github profile! wave
 
-I write about Technology, snippets and resources at my blog.
-
 I've done several projects using various technologies.
 
 [![Stats](https://github-readme-streak-stats.herokuapp.com?user=igoracportela&theme=dark)](#)
@@ -14,10 +12,11 @@ I've done several projects using various technologies.
 
 ### For the culture 💪🏽
 
-    telescope Working on: Fullstack development, Essentialism, Mental Health
-    seedling Learning: Product, Design and People behaviors, Self Love
-    dancers Looking to collaborate on: Web, Mobile and IoT Projects
-    speech_balloon Ask me about: Code, startups and life
+    I've the brazillian culture, I was a professional musician between 11 and 20 years
+    I love a great barbecue and some beer. I love learn about people, behavior and other.
+    I love play with my kids and learn with theirs
     
+
+Thanks @malachaifrazier for inspire me here
 
 

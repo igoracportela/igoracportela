@@ -10,7 +10,7 @@ I've done several projects using various technologies.
 [![Stats](https://github-readme-streak-stats.herokuapp.com?user=igoracportela&theme=dark)](#)
 
 ### Languages, Frameworks and Tools that I use hammer_and_wrench
-- Ruby on Rails - React/React Native - NodeJS - VueJS - EmberJS - JQuery - JavaScript - Bootstrap - HTML5 - CSS3 - Git - Docker - PostgreSQL - MySQL - Redis - MongoDB - GraphQL - Heroku - AWS
+- Ruby on Rails - React/React Native - NodeJS - Angular - VueJS - EmberJS - JQuery - JavaScript - Bootstrap - HTML5 - CSS3 - Git - Docker - PostgreSQL - MySQL - Redis - MongoDB - GraphQL - Heroku - AWS
 
 ### For the culture 💪🏽
 

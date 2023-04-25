@@ -15,7 +15,7 @@ I've done several projects using various technologies.
 ### For the culture 💪🏽
 
     telescope Working on: Fullstack development, Essentialism, Mental Health
-    seedling Learning: Product, Design and React Native, Self Love
+    seedling Learning: Product, Design and People behaviors, Self Love
     dancers Looking to collaborate on: Web, Mobile and IoT Projects
     speech_balloon Ask me about: Code, startups and life
     

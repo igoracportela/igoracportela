@@ -7,7 +7,7 @@ I write about Technology, snippets and resources at my blog.
 
 I've done several projects using various technologies.
 
-[![Stats](https://github-readme-streak-stats.herokuapp.com?user=igoracportela&theme=dark)](https://git.io/streak-stats)
+[![Stats](https://github-readme-streak-stats.herokuapp.com?user=igoracportela&theme=dark)](#)
 
 ### Languages, Frameworks and Tools that I use hammer_and_wrench
 - Ruby on Rails - React/React Native - NodeJS - VueJS - EmberJS - JQuery - JavaScript - Bootstrap - HTML5 - CSS3 - Git - Docker - PostgreSQL - MySQL - Redis - MongoDB - GraphQL - Heroku - AWS
